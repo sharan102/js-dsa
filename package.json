@@ -1,0 +1,22 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "data structure and algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharan102/js-dsa.git"
+  },
+  "keywords": [
+    "js-dsa"
+  ],
+  "author": "sharan102",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharan102/js-dsa/issues"
+  },
+  "homepage": "https://github.com/sharan102/js-dsa#readme"
+}
